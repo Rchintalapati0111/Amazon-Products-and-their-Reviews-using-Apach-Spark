@@ -17,7 +17,4 @@ This project analyzes Amazon product reviews and metadata using Apache Spark on 
 
 # Technologies Used:
 
-Programming Languages: Python, SQL
-Frameworks/Tools: Apache Spark, AWS EMR, Google Colab
-Libraries: PySpark, pandas, matplotlib
-Platforms: AWS S3, Google Drive integration
+Python, SQL, Apache Spark, AWS EMR, Google Colab, PySpark, pandas, matplotlib, and AWS S3
